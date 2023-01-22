@@ -16,7 +16,7 @@ function add() {
   }
 
   alert("Adicionado com sucesso ✅")
-  nlwSetup.addDay("19/01")
+  nlwSetup.addDay("22/01")
 }
 
 function save() {
