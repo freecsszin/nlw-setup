@@ -16,7 +16,6 @@ function add() {
   }
 
   alert("Adicionado com sucesso ✅")
-  nlwSetup.addDay("22/01")
 }
 
 function save() {
